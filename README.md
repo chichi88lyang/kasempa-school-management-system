@@ -1,5 +1,5 @@
 📚 Kasempa School Management System
-A School Management System built with Node.js, Express, MongoDB, and Postman for API testing. This system handles user registration, login, and will eventually support full school operations like managing students, teachers, courses, and grades.
+#A School Management System built with Node.js, Express, MongoDB, and Postman for API testing. This system handles user registration, login, and will eventually support full school operations like managing students, teachers, courses, and grades.
 
 🚀 Features
 ✅ User Registration (Student, Teacher, Admin)
@@ -108,4 +108,4 @@ Response:
 This project is licensed under the MIT License.
 
 🙏 Acknowledgments
-Special thanks to Focus Lyangenda for leading this project and to all contributors who will support the system's growth.
+Special thanks to Chisenatambu Lyangenda for leading this project and to all contributors who will support the system's growth.
