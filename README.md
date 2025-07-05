@@ -72,40 +72,4 @@ Server should respond:
 Server running on port 5000
 MongoDB connected
 🧪 API Testing
-Use Postman to test the API endpoints.
-
-POST /api/users/register
-Request Body:
-{
-    "name": "Focus Lyangenda",
-    "email": "focus@example.com",
-    "password": "123456"
-}
-Response:
-{
-    "token": "jwt-token",
-    "user": {
-        "id": "user_id",
-        "name": "Focus Lyangenda",
-        "email": "focus@example.com",
-        "role": "Student"
-    }
-}
-✅ To Do
- Add Login Endpoint
-
- Build User Role Access (Admin, Teacher, Student)
-
- Develop Course Management
-
- Develop Attendance Tracking
-
- Connect React Frontend
-
- Build UI for User Authentication
-
-📄 License
-This project is licensed under the MIT License.
-
-🙏 Acknowledgments
-Special thanks to Chisenatambu Lyangenda for leading this project and to all contributors who will support the system's growth.
+Use Postman to test the API endpoint
